@@ -8,7 +8,7 @@ class Paint implements ActionListener
 	Paint()
 	{
 		f=new JFrame("Homescreen");
-		f.setSize(400,400);
+		f.setSize(600,600);
 		f.setLayout(new FlowLayout(FlowLayout.LEFT));
 		f.setLocationRelativeTo(null);
 		f.setDefaultCloseOperation(f.EXIT_ON_CLOSE);
